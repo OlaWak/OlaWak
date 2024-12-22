@@ -1,6 +1,6 @@
 # Hi, I'm Ola Waked
 
-A passionate **Computer Science** student at Western University with a minor in **Software Engineering** I specialize in **app development**, **research**, and **design**, combining technical expertise with creative leadership.
+A passionate **Computer Science** student at Western University with a minor in **Software Engineering**. I specialize in **app development**, **research**, and **design**, combining technical expertise with creative leadership.
 
 ## Highlights
 - **Innovator at SheHacks+:**  
@@ -15,7 +15,7 @@ A passionate **Computer Science** student at Western University with a minor in 
 ## Skills
 - **Programming Languages:** Python, Java, C, VBA  
 - **Tools & Frameworks:** React Native, Adobe Illustrator, LaTeX  
-- **Languages:** Fluent in English and Arabic; Beginner in French  
+- **Languages:** Fluent in English and Arabic
 
 
 # 💻 Tech Stack:
@@ -23,7 +23,6 @@ A passionate **Computer Science** student at Western University with a minor in 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OlaWak&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OlaWak&theme=highcontrast&hide_border=false)<br/>
-username=OlaWak&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OlaWak&icon=0&color=0)](https://visitcount.itsvg.in)
